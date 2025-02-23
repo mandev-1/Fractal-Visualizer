@@ -2,9 +2,6 @@
 # Fractal Visualizer 👋(￣^￣ )ゞ
 Fractol Visualized. Simple rendering of Mandelbrot, Julia, Burning ship and "Tricorn" sets.
 
-𝙼𝚊𝚗 𝚊𝚗𝚍 𝚑𝚒𝚜 𝙲𝚘𝚍𝚎
-
-
 <!--
 **MTINMAN13/MTINMAN13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
